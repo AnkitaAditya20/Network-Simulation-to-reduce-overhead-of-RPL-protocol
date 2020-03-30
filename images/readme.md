@@ -4,7 +4,7 @@
 
 2. Sensor graph
 
-3.Node-Info
+3. Node-Info
 
 4. Power graph
 
